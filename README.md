@@ -4,7 +4,7 @@ Este projeto consiste em uma planilha interativa no Excel desenvolvida para auxi
 
 Funcionalidades
 
-    Filtros Interativos Permitem segmentar os dados por plataforma, deixando a experiência de uso intuitiva
+    Filtros Interativos Permitem segmentar os dados, deixando a experiência de uso intuitiva
     
     Gráficos Interativos Exibem visualmente as informações
 
