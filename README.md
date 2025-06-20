@@ -11,11 +11,12 @@ Funcionalidades
 
 Objetivo
 
-  O objetivo principal é proporcionar uma base sólida a respeito das vendas de assinaturas da Xbox game pass. A planilha transforma dados brutos em insights rápidos e acionáveis.
+      O objetivo principal é proporcionar uma base sólida a respeito das vendas de assinaturas da Xbox game pass. A planilha transforma dados brutos em insights rápidos e acionáveis.
 
 Intruções de uso
 
-  Abra o Dashboard
-  Filtre as informações que você precisa ver no meu lateral 
+      Abra o Dashboard
+      
+      Filtre as informações que você precisa ver no meu lateral 
   
 
